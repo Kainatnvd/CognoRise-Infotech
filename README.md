@@ -8,6 +8,7 @@ Task 2: INFOGRAPHIC
 > The Infographic pdf consists of the infographic design I made for this task.
 
 Task 3: BUSINESS CARD
+>There are 2 pdfs for the business card, one is the front an the other is the backside of the card.
 
 Task 4: FITNESS TRACKING DASHBOARD
 
