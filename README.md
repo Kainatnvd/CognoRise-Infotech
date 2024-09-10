@@ -11,7 +11,6 @@ Task 3: BUSINESS CARD
 >There are 2 pdfs for the business card, one is the front an the other is the backside of the card.
 
 Task 4: FITNESS TRACKING DASHBOARD
-
-Task 5: E-COMMERCE PRODUCT PAGE
+>There is one pdf of the Fitness Tracking Dashboard.
 
 **ALL THE DESIGNS FOR THESE TASKS ARE MADE ON FIGMA AND ARE DOWNLOADED IN PDF FORM TO UPLOAD IN THIS REPO.**
